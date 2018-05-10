@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayPractice", "ArrayPractice\ArrayPractice.csproj", "{350B83D8-B9B2-4112-A7B8-607901E8EBF8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{350B83D8-B9B2-4112-A7B8-607901E8EBF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{350B83D8-B9B2-4112-A7B8-607901E8EBF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{350B83D8-B9B2-4112-A7B8-607901E8EBF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{350B83D8-B9B2-4112-A7B8-607901E8EBF8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
