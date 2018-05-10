@@ -42,3 +42,17 @@ namespace ArrayPractice
 		}
 	}
 }
+
+/*{
+        int[] numbers = new int[10];
+ 
+        for (int i = 0; i < 10; i++)
+        {
+            Console.Write("Numero {0}= ", i + 1);
+            numbers[i] = Convert.ToInt32(Console.ReadLine());
+        }
+ 
+        for (int i = 0; i < 10; i++)
+            if (numbers[i] % 2 == 0)
+                Console.Write("{0} ", numbers[i]);
+    }*/
